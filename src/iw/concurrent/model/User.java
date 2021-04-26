@@ -3,7 +3,7 @@ package iw.concurrent.model;
 public class User {
 
 	private String name;
-	
+	private String email;
 
 	public User(String name) {
 		super();
